@@ -12,3 +12,7 @@ allowing the next client who connects to the LAN side of the router to deal with
 captive portal through a proxy.
 
 THIS TOOL IS NOT YET COMPLETE AND IS STILL IN DEVELOPMENT
+
+This may require:
+
+sudo apt-get install libpcap-dev
